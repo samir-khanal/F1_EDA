@@ -3,8 +3,6 @@ An Exploratory Data Analysis (EDA) project focused on Formula 1 data. This proje
 
 # 🏁 Formula 1 Analytics: Decoding Decades of Racing Data 🏎️📊
 
-![F1 Header Image](https://via.placeholder.com/1200x400.png?text=F1+Data+Visualization) *(Add a banner image here)*
-
 ## 🔍 About the Project
 I dove into **70+ years of Formula 1 racing history** (1950–2024) to uncover hidden patterns, driver/team dominance, and race-day strategies using Python and data storytelling. This EDA explores what makes F1 the pinnacle of motorsport!
 
@@ -17,8 +15,6 @@ I dove into **70+ years of Formula 1 racing history** (1950–2024) to uncover h
 - **Driver Dominance**: How legends like Hamilton 🏆, Schumacher 🐐, and Senna ✨ ruled their eras
 - **Team Dynasties**: Ferrari's legacy vs modern giants like Mercedes & Red Bull 🔥
 - **Pole Position Power**: Does starting first guarantee a win? The data reveals surprises! 🏁➡️🏆
-- **Track Trends**: Which circuits favor specific teams/drivers? (Monaco chaos vs Spa speed! 🏎️💨)
-
 ---
 
 ## 🛠️ Tools & Technologies
@@ -53,3 +49,6 @@ I dove into **70+ years of Formula 1 racing history** (1950–2024) to uncover h
 ```bash
 git clone https://github.com/your-username/f1-data-analysis.git
 pip install -r requirements.txt
+```
+## 🤝 Contribute
+Found an interesting pattern? Open an issue or PR!
