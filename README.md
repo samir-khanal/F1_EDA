@@ -27,15 +27,12 @@ I dove into **70+ years of Formula 1 racing history** (1950–2024) to uncover h
 
 ## 📈 Key Visualizations
 1. **Driver Performance Over Decades**  
-   ![Driver Trends](https://via.placeholder.com/400x250.png?text=Driver+Performance)  
    *How champions adapt to rule changes and car evolution*
 
-2. **Constructor Championships Timeline**  
-   ![Constructors](https://via.placeholder.com/400x250.png?text=Team+Dynasties)  
+2. **Constructor Championships Timeline**    
    *Ferrari's endurance vs Mercedes' hybrid-era dominance*
 
-3. **Pole Position vs Race Win Correlation**  
-   ![Pole Analysis](https://via.placeholder.com/400x250.png?text=Pole+Position+Impact)  
+3. **Pole Position vs Race Win Correlation**    
    *How starting position affects race outcomes*
 
 ---
